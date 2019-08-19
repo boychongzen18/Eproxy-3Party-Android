@@ -13,7 +13,7 @@
 # Tampilan Apk Eproxy
 ![be](https://raw.githubusercontent.com/boychongzen18/Eproxy-3Party-Android/master/eproxy.jpg)
 # Tampilan Tester Play Music Online Via Termux
-![be](https://raw.githubusercontent.com/boychongzen18/Eproxy-3Party-Android/master/termux.jpg)
+![be](https://raw.githubusercontent.com/boychongzen18/Eproxy-3Party-Android/master/yt.jpg)
 
 My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
 
