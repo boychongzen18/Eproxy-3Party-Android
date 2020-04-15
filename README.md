@@ -23,6 +23,8 @@ My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
 
 Link Tutorial : https://youtu.be/cpMHca3Cfnw
 
+Cara Masukan Script Psiphon & Qpython : https://youtu.be/XPx7treUZQg
+
 My Website    : https://hackingforlive.wordpress.com
 
 My Facebok    : https://web.facebook.com/xroot.xroot.7
